@@ -1,0 +1,11 @@
+node_modules
+
+/.cache
+/public/build
+/build
+.env
+.idea
+
+# Local Netlify folder
+.netlify
+.DS_Store
